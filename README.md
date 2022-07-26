@@ -19,7 +19,8 @@ will be available soon
 will be available soon
 ## Code 301 - Intermediate Software Development
 [1.Introduction to React and Components 01](https://github.com/qais-alsgher/reading-notes/blob/main/Introduction%20to%20React%20and%20Components%2001)
-[2.State and Props 02]()
+
+[2.State and Props 02](https://github.com/qais-alsgher/reading-notes/blob/main/State%20and%20Props02.md)
 
 ## Code 401 - Advanced Software Development
 will be available soon
