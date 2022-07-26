@@ -19,7 +19,7 @@
 
 
 
-#When do we re-render our application?
+# When do we re-render our application?
 
 When looking into React's render performance, there are a few terms and concepts that can be hard to understand.
 
@@ -29,14 +29,18 @@ In the first part of this article, I'll explain the most important concepts abou
 
 
 and every thing in lifecycle of React
+
 A component’s lifecycle is broadly classified into four parts:
 
-initialization
+initialization 
+
 mounting
+
 updating, and
+
 unmounting.
 
-#What are some examples of things that we could store in state?
+# What are some examples of things that we could store in state?
 
 When React was first introduced, we were presented with local state. The important thing to know about local 
 state is that when a state value changes, it triggers a re-render.
