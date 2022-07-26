@@ -70,7 +70,8 @@ function Tool({name, tool}) {
 
 # What is the flow of props?
 Data between Components
-Every component is part of the component tree typically with your App component at the top. Any components that App renders in its JSX are its children and so forth. A component can't receive data from its siblings or children so how would data move around, here are some scenarios.
+Every component is part of the component tree typically with your App component at the top. Any components that App renders in its JSX are its children and so forth. A component 
+can't receive data from its siblings or children so how would data move around, here are some scenarios.
 
 To Child From Parent
 The Parent passes the data to its child as a prop
