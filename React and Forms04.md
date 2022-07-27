@@ -49,12 +49,12 @@ code are depends on the success of it, it fails or simply the condition is false
 
 # Rewrite the following statement using a ternary statement:
 
-javasscrpt{
+
+
 if(x===y){
   console.log(true);
 } else {
   console.log(false);
-}
 }
 
 
