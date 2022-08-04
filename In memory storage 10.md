@@ -19,8 +19,7 @@ it means that the last function that gets pushed into the stack is the first to 
 
 #  Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
 
-![](![image](https://user-images.githubusercontent.com/69685164/182749783-1168bb18-cc52-4448-b107-5176a163f362.png)
-)
+![image](https://user-images.githubusercontent.com/69685164/182749783-1168bb18-cc52-4448-b107-5176a163f362.png)
 
 
 # What causes a Stack Overflow?
