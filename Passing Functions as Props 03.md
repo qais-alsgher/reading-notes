@@ -1,4 +1,4 @@
-# Passing Functions as Props
+# [Passing Functions as Props](https://github.com/qais-alsgher/reading-notes/edit/main/Passing%20Functions%20as%20Props%2003.md)
 
 # What does .map() return?
 he map() method in JavaScript creates an array by calling a specific function on each element present in the parent array.
@@ -57,3 +57,7 @@ let employee = {
 };
 
 console.log(employee);
+
+
+
+if you need more useful information inside my repo( [press here](https://github.com/qais-alsgher/reading-notes)).
