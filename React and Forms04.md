@@ -1,3 +1,5 @@
+# [React and Forms](https://github.com/qais-alsgher/reading-notes/edit/main/React%20and%20Forms04.md)
+
 # What is a ‘Controlled Component’?
 
 In most cases, we recommend using controlled components to implement forms. In a controlled
@@ -64,4 +66,8 @@ if(x===y){
 javasscrpt{
 (x===y)? console.log(true) : console.log(false) ;
 }
+
+
+
+if you need more useful information inside my repo( [press here](https://github.com/qais-alsgher/reading-notes)).
 
