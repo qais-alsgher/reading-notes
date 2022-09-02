@@ -101,7 +101,7 @@ It is possible to do a keyword search on the Manual pages with the following com
 
 [Useful reference](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
 
-### For more information ([click here]([https://ryanstutorials.net/linuxtutorial/cheatsheet.php](https://github.com/qais-alsgher/reading-notes/blob/main/README.md)))
+### For more information ([click here](https://ryanstutorials.net/linuxtutorial/cheatsheet.php](https://github.com/qais-alsgher/reading-notes/blob/main/README.md))
 
 
 
