@@ -1,4 +1,4 @@
-# [The Command Line](https://github.com/qais-alsgher/reading-notes/new/main/401)
+# [The Command Line]([https://github.com/qais-alsgher/reading-notes/new/main/401](https://github.com/qais-alsgher/reading-notes/blob/main/401/The%20Command%20Line.md))
 
 ### 1.What is it
 
