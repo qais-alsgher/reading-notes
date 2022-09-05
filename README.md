@@ -40,6 +40,6 @@ will be available soon
 [11.Mongo and Mongoose 11](https://github.com/qais-alsgher/reading-notes/blob/main/Mongo%20and%20Mongoose%2011%20.md)
 
 ## Code 401 - Advanced Software Development
-[The Command Line](https://github.com/qais-alsgher/reading-notes/blob/main/401/The%20Command%20Line.md)
-[Express](https://github.com/qais-alsgher/reading-notes/blob/main/401/Express.md)
+[1.The Command Line](https://github.com/qais-alsgher/reading-notes/blob/main/401/The%20Command%20Line.md)
+[2.Express](https://github.com/qais-alsgher/reading-notes/blob/main/401/Express.md)
 
