@@ -45,7 +45,7 @@ const sequelize = new Sequelize('database', 'username', 'password', {
 ```
 
 
-#   
+# What is an ORM, how does it work, and how should I use one?
 
 
 Object-relational-mapping is the idea of being able to write queries like this
@@ -55,7 +55,23 @@ SELECT * FROM users WHERE email = 'test@test.com';
 as well as much more complicated ones, using the object-oriented paradigm of used programming language.
 
 
+ORM resolves the object code and relational database mismatch with three approaches: bottom up, top-down and meet in the middle.
 
+Each approach has its share of benefits and drawbacks. When selecting the best software solution, developers must fully understand
+
+the environment and design requirements.
+
+
+In addition to the data access technique, ORM's benefits also include:
+
+- Simplified development because it automates object-to-table and table-to-object conversion, resulting in lower development and maintenance costs
+- Less code compared to embedded SQL and handwritten stored procedures
+- Transparent object caching in the application tier, improving system performance
+- An optimized solution making an application faster and easier to maintain
+- 
+ORM’s emergence in multiple application development has created disagreement among experts. Key concerns are that ORM does not perform 
+
+well and that stored procedures might be a better solution. In addition, ORM dependence may result in poorly-designed databases in certain circumstances.
 
 
 
