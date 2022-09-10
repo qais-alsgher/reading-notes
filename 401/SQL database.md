@@ -17,12 +17,16 @@ install use commind line
 
 npm install --save sequelize
 
+conect Sequelize  to Database we have 3 option
+
 ```node.js
+
 const { Sequelize } = require('sequelize');
 
 // Option 1: Passing a connection URI
 const sequelize = new Sequelize('sqlite::memory:') // Example for sqlite
 const sequelize = new Sequelize('postgres://user:pass@example.com:5432/dbname') // Example for postgres
+
 
 // Option 2: Passing parameters separately (sqlite)
 const sequelize = new Sequelize({
@@ -30,9 +34,32 @@ const sequelize = new Sequelize({
   storage: 'path/to/database.sqlite'
 });
 
+
 // Option 3: Passing parameters separately (other dialects)
 const sequelize = new Sequelize('database', 'username', 'password', {
   host: 'localhost',
   dialect: /* one of 'mysql' | 'mariadb' | 'postgres' | 'mssql' */
 });
+
+
 ```
+
+
+#   
+
+
+Object-relational-mapping is the idea of being able to write queries like this
+```sql
+SELECT * FROM users WHERE email = 'test@test.com';
+```
+as well as much more complicated ones, using the object-oriented paradigm of used programming language.
+
+
+
+
+
+
+
+
+
+
