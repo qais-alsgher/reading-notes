@@ -74,6 +74,7 @@ ORM’s emergence in multiple application development has created disagreement a
 well and that stored procedures might be a better solution. In addition, ORM dependence may result in poorly-designed databases in certain circumstances.
 
 
+### For more information ([click here](https://github.com/qais-alsgher/reading-notes/blob/main/README.md))
 
 
 
