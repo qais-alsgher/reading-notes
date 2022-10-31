@@ -113,9 +113,13 @@ Internet Message Access Protocol (IMAP), Domain Name Service (DNS), and Hypertex
 
 
 
+### For more information ([click here](https://github.com/qais-alsgher/reading-notes/blob/main/README.md))
 
-
-
+### useful links 
+[OSI Model](https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/)
+[Socket.io Documentation](https://socket.io/docs/v4/)
+[Socket.io Server API](https://socket.io/docs/v4/server-api)
+[Socket.io Client API](https://socket.io/docs/v4/client-api)
 
 
 
