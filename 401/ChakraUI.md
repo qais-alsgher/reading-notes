@@ -42,3 +42,6 @@ function App() {
 ```
 thwn start style for using Chakra UI click here for [Chakra UI doc](https://chakra-ui.com/getting-started)
 
+
+### For more information ([click here](https://github.com/qais-alsgher/reading-notes/blob/main/README.md))
+
