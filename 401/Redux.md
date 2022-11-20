@@ -21,8 +21,11 @@ Redux guides you towards writing code that is predictable and testable, which he
 Redux is more useful when:
 
 You have large amounts of application state that are needed in many places in the app
+</br>
 The app state is updated frequently over time
+</br>
 The logic to update that state may be complex
+</br>
 The app has a medium or large-sized codebase, and might be worked on by many people
 
 
